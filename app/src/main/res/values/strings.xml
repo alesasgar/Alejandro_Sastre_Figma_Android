@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rainbow Kid</string>
+    <string name="logo_texto">Rainbow\nKid</string>
+    <string name="filtro_bebes">0 - 24 meses</string>
+    <string name="filtro_nina">Niña 2-14 años</string>
+    <string name="filtro_nino">Niño 2-14 años</string>
+    <string name="nombre_prod_1">Conjunto niño día de la independencia</string>
+    <string name="precio_prod_1">23,95 €</string>
+    <string name="nombre_prod_2">Suéter naranja de niño de erizo</string>
+    <string name="precio_prod_2">19,95 €</string>
+    <string name="nombre_prod_3">Ropa azul ceniza para bebes de 3 a 7 meses</string>
+    <string name="precio_prod_3">14,95 €</string>
+    <string name="nombre_prod_4">Cazadora sin mangas Niñas 1-6 años</string>
+    <string name="precio_prod_4">32,95 €</string>
+    <string name="favorito">Favorito</string>
+</resources>

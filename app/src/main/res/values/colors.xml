@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo">#FFFFFFFF</color>
+    <color name="texto_principal">#FF000000</color>
+    <color name="texto_precio">#FF747474</color>
+    <color name="icon_fav">#FFFF0000</color>
+    <color name="nav_bar">#FFEADDFF</color>
+    <color name="btn_color">#FFEADDFF</color>
+    <color name="logo_color">#FF6750A4</color>
+</resources>
