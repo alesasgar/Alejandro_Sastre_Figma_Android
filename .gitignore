@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -13,3 +14,33 @@
 .externalNativeBuild
 .cxx
 local.properties
+=======
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc.)
+local.properties
+
+# IntelliJ project files
+.idea/
+.DS_Store
+*.iml
+.apt_generated
+.classpath
+.project
+.settings
+>>>>>>> ccddb107f221429218ea4ead79bbe2dc64652ef0
