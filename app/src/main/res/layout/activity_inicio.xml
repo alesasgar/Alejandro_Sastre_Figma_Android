@@ -103,7 +103,6 @@
             app:cornerRadius="20dp"/>
 
     </LinearLayout>
-    <!-- CONTENEDOR CON SCROLL Y LOS 4 PRODUCTOS -->
     <ScrollView
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -122,16 +121,12 @@
             android:alignmentMode="alignMargins"
             android:useDefaultMargins="true">
 
-            <!-- Producto 1 -->
             <include layout="@layout/item_producto1" />
 
-            <!-- Producto 2 -->
             <include layout="@layout/item_producto2" />
 
-            <!-- Producto 3 -->
             <include layout="@layout/item_producto3" />
 
-            <!-- Producto 4 -->
             <include layout="@layout/item_producto4" />
 
         </GridLayout>
