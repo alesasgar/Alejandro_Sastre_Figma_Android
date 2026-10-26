@@ -6,7 +6,6 @@
     android:layout_height="wrap_content"
     android:layout_margin="4dp">
 
-    <!-- FOTO DEL PRODUCTO -->
     <ImageView
         android:id="@+id/iv_foto_producto_2"
         android:layout_width="146dp"
@@ -17,7 +16,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
 
-    <!-- BOTÓN FAVORITO SUPERPUESTO EN LA ESQUINA SUPERIOR DERECHA -->
     <ImageButton
         android:id="@+id/btn_favorito"
         android:layout_width="32dp"
@@ -29,7 +27,6 @@
         app:layout_constraintEnd_toEndOf="@id/iv_foto_producto_2"
         android:contentDescription="Favorito"/>
 
-    <!-- NOMBRE DEL PRODUCTO -->
     <TextView
         android:id="@+id/tv_nombre_producto"
         android:layout_width="0dp"
@@ -43,7 +40,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
 
-    <!-- PRECIO -->
     <TextView
         android:id="@+id/tv_precio"
         android:layout_width="wrap_content"
